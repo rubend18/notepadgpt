@@ -5,6 +5,10 @@ If you have any questions, comments or suggestions, do not hesitate to contact m
 
 Also if you need a custom application like this, with the OpenIA API, contact me for more information.
 
+![image1](https://github.com/rubend18/notepadgpt/assets/65433057/b544f464-7779-4a78-ac59-9fc941674ebe)
+
+![image2](https://github.com/rubend18/notepadgpt/assets/65433057/ad82f36c-0815-4a17-972b-6c49af96b67b)
+
 Atte.
 
 Rubén Jaramillo
