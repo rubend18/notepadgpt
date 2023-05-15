@@ -7,11 +7,11 @@ Also if you need a custom application like this, with the OpenIA API, contact me
 
 The application interface looks like this
 
-![image1](https://github.com/rubend18/notepadgpt/assets/65433057/b544f464-7779-4a78-ac59-9fc941674ebe)
+![imagen1](https://github.com/rubend18/notepadgpt/assets/65433057/e4b76c8d-594e-43c6-8b25-ec8bf45b701f)
 
 Access the configuration menu and click on "Enter API KEY" to enter your own OpenIA API KEY
 
-![image2](https://github.com/rubend18/notepadgpt/assets/65433057/ad82f36c-0815-4a17-972b-6c49af96b67b)
+![imagen2](https://github.com/rubend18/notepadgpt/assets/65433057/4d63eae2-e818-4e1a-bb5f-cf38f1ebfea9)
 
 Atte.
 Rubén Jaramillo
